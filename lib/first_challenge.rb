@@ -13,7 +13,7 @@ def first_challenge
     }
   }
 
-  first_challenge[:contacts]["Freddy Mercury"][favorite_icecream_flavors]
+  contacts.Fre
 
 
   #remember to return your newly altered contacts hash!
