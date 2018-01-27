@@ -14,6 +14,7 @@ def first_challenge
   }
 
   contacts["Freddy Mercury"].each do |attribute, value|
+    
 
 
   #remember to return your newly altered contacts hash!
